@@ -48,7 +48,6 @@ avatar: "/img/avatar-icon.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
-page-col: "#383838"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -59,7 +58,7 @@ author:
   name: Some Person
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: linuxfce    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -77,10 +76,10 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: true
+  rss: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -89,7 +88,7 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
   steam: false
@@ -99,17 +98,17 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  facebook: false
+  google: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://linuxfce.github.io/joly-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus: "linux-xfce-blog"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -131,7 +130,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "England,London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
