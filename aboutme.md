@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I'm a Web Developer fro Portugal based in London
+subtitle: I'm a Web Developer from Portugal based in London
 ---
 
  I'm currently learning HTML, CSS, JScript, I work with Bootstrap, JQuery, currently learning how to host my blog with static pages [Jekill](http://jekyllrb.com/docs/quickstart/) on [GitHub](https://linuxfce.github.io/), so I can do simple websites or blogs  that my friends and neighbours can easily maintain a website without CMS, databases, coding skills or even know how to host their own website.
