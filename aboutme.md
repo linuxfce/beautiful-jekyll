@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm a Web Developer fro Portugal based in London
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+ I'm currently learning HTML, CSS, JScript, I work with Bootstrap, JQuery, currently learning how to host my blog with static pages [Jekill](http://jekyllrb.com/docs/quickstart/) on [GitHub](https://linuxfce.github.io/), so I can do simple websites or blogs  that my friends and neighbours can easily maintain a website without CMS, databases, coding skills or even know how to host their own website.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I call myself a Web Developer which is not really true, I'm still learning HTML, CSS \(\+ SASS\), JScritp, JQuery, Bootstrap, Node.Js, Markdown syntax, Jekill, GitHub &amp; Git, till today, I managed to host &amp; maintain my own website [miguelpcrepairs](http://miguelpcrepairs.site90.net/) &amp; this [Blog](https://linuxfce.github.io/) . I also maintain a few Websites for friends &amp; neighbours and one for an Art group in Lambeth, London.
 
-What else do you need?
+ GitHub even offers their own version control like Git which is also included and supported.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ I'm also trying to work with Firefox new **WebExtensions API**, in order to migrate some of my old addons, build with the old sdk, to the new **WebExtensions API**, a cross-browser system for developing extensions. To a large extent the system is compatible with the extension API supported by Google Chrome and Opera and the W3C Draft Community Group. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just a few changes. The API is also fully compatible with multiprocess Firefox. I'm having all kinds of issues with this, but, on the other hand that was the way I start up with Node.Js with Express &amp; to learn how to build the software for a local Library maintain by volunteers, I'm experimenting to this also with the **Django framework** in my localhost on my Desktop PC.
