@@ -3,6 +3,7 @@ layout: post
 title: YAML front matter block
 subtitle: What is the YAML front matter ?
 bigimg: /img/path.jpg
+comments: true
 ---
 
 I quote [Front Matter](http://jekyllrb.com/docs/frontmatter/) of the officail site of Jekyll.
