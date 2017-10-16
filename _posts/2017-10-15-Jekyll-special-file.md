@@ -2,7 +2,8 @@
 layout: post
 title: YAML front matter block
 subtitle: What is the YAML front matter ?
-bigimg: /img/path.jpg
+bigimg: /img/MigPCrepairs.jpeg
+
 comments: true
 ---
 
