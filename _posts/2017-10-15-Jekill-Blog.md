@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll and GitHub!
 tags: [Jekill-Blog, random]
+comments: true
 ---
 ## To do list
 
