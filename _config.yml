@@ -36,7 +36,7 @@ avatar: "/img/avatar_meiras.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/AdragaJekyll3.jpg
+title-img: "/img/AdragaJekyll3.jpg"
 
 # --- Background colour/image options --- #
 
@@ -49,7 +49,7 @@ navbar-col: "orange"
 # footer-col: "blue"
 # footer-img: "/img/AdragaJekyll3.jpg"
 # page-col: "#FF0000"
- page-img: "/img/AdragaJekyll3.jpg"
+page-img: "/img/AdragaJekyll3.jpg"
 
 # --- Footer options --- #
 
