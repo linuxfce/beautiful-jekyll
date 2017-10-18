@@ -66,7 +66,7 @@ for *Windows* &amp; *Linux*
 | Remove predictions from your address bar | Down arrow to highlight + Shift + Delete |
 * * *
 
-## Webpage shortcuts
+## Webpage shortcuts:
 
 | Action | Shortcut |
 | :--- | ---: |
