@@ -7,11 +7,11 @@ subtitle: Learn keyboard shortcuts and become a pro at using Chrome
 ## Tab and window shortcuts
 for *Windows* &amp; *Linux*
 
- | Action | Shortcut |
- | --- | --- |
- | Open a new window | Ctrl + n |
- | Open a new window in Incognito mode | Ctrl + Shift + n |
- | Open a new tab, and jump to it | Ctrl + t |
+| Action | Shortcut |
+| :--- | ---: |
+| Open a new window | Ctrl + n |
+| Open a new window in Incognito mode | Ctrl + Shift + n |
+| Open a new tab, and jump to it | Ctrl + t |
 | Reopen the last closed tab, and jump to it | Ctrl + Shift + t |
 | Jump to the next open tab | Ctrl + Tab or Ctrl + PgDn |
 | Jump to the previous open tab | Ctrl + Shift + Tab or Ctrl + PgUp |
@@ -65,6 +65,7 @@ for *Windows* &amp; *Linux*
 | Search from anywhere on the page | Ctrl + k or Ctrl + e |
 | Remove predictions from your address bar | Down arrow to highlight + Shift + Delete |
 * * *
+
 ## Webpage shortcuts
 
 | Action | Shortcut |
