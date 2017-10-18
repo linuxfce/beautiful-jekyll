@@ -28,6 +28,7 @@ for *Windows* &amp; *Linux*
 | Quit Google Chrome | Ctrl + Shift + q |
 | Open a new window in Incognito mode | Ctrl + Shift + n |  
 
+
 ## Google Chrome feature shortcuts
 
 | Action | Shortcut |
