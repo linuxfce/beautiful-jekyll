@@ -27,11 +27,11 @@ for *Windows* &amp; *Linux*
 | Close the current window | Alt + F4 |
 | Quit Google Chrome | Ctrl + Shift + q |
 | Open a new window in Incognito mode | Ctrl + Shift + n |
-
-
+  
+  
 ## Google Chrome feature shortcuts
-
-
+ 
+ 
 | Action | Shortcut |
 | :--- | --- |
 | Open the Chrome menu | Alt + f or Alt + e or F10 |
