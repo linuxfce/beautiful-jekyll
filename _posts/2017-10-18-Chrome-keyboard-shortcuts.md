@@ -54,10 +54,9 @@ for *Windows* &amp; *Linux*
 | Log in a different user or browse as a Guest | Ctrl + Shift + m |
 | Open a feedback form | Alt + Shift + i |
   
-  
 ## Address bar shortcuts
 #### Use the following shortcuts in the address bar:
-
+  
 | Action | Shortcut |
 | :--- | --- |
 | Search with your default search engine | Type a search term + Enter |
