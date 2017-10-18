@@ -26,8 +26,7 @@ for *Windows* &amp; *Linux*
 | Maximize the current window | Alt + Space + x |
 | Close the current window | Alt + F4 |
 | Quit Google Chrome | Ctrl + Shift + q |
-| Open a new window in Incognito mode | Ctrl + Shift + n |
-
+| Open a new window in Incognito mode | Ctrl + Shift + n |  
 
 ## Google Chrome feature shortcuts
 
@@ -50,7 +49,8 @@ for *Windows* &amp; *Linux*
 | Open the Chrome Help Center in a new tab | F1 |
 | Log in a different user or browse as a Guest | Ctrl + Shift + m |
 | Open a feedback form | Alt + Shift + i |
-
+  
+  
 ## Address bar shortcuts
 #### Use the following shortcuts in the address bar:
 
