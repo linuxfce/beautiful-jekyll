@@ -8,7 +8,7 @@ subtitle: Learn keyboard shortcuts and become a pro at using Chrome
 for *Windows* &amp; *Linux*
 
 | Action | Shortcut |
-| :--- | ---: |
+| :--- | --- |
 | Open a new window | Ctrl + n |
 | Open a new window in Incognito mode | Ctrl + Shift + n |
 | Open a new tab, and jump to it | Ctrl + t |
@@ -31,7 +31,7 @@ for *Windows* &amp; *Linux*
 ## Google Chrome feature shortcuts
 
 | Action | Shortcut |
-| :--- | ---: |
+| :--- | --- |
 | Open the Chrome menu | Alt + f or Alt + e or F10 |
 | Show or hide the Bookmarks bar | Ctrl + Shift + b |
 | Open the Bookmarks Manager | Ctrl + Shift + o |
@@ -54,7 +54,7 @@ for *Windows* &amp; *Linux*
 #### Use the following shortcuts in the address bar:
 
 | Action | Shortcut |
-| :--- | ---: |
+| :--- | --- |
 | Search with your default search engine | Type a search term + Enter |
 | Search using a different search engine | Type a search engine name + Tab |
 | Add www. and .com to a site name, and open it in the current tab | Type a site name + Ctrl + Enter |
@@ -66,7 +66,7 @@ for *Windows* &amp; *Linux*
 ## Webpage shortcuts:
 
 | Action | Shortcut |
-| :--- | ---: |
+| :--- | --- |
 | Open options to print the current page | Ctrl + p |
 | Open options to save the current page | Ctrl + s |
 | Reload the current | F5 or Ctrl + r |
@@ -99,7 +99,7 @@ for *Windows* &amp; *Linux*
 ### The following shortcuts require you to use your mouse:
 
 | Action | Shortcut |
-| :--- | ---: |
+| :--- | --- |
 | Open a link in a current tab (mouse only) | Drag a link to a tab |
 | Open a link in new background tab | Ctrl + Click a link |
 | Open a link, and jump to it | Ctrl + Shift + Click a link |
