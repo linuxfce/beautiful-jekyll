@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sync gh-pages with master
+title: Sync gh pages with master
 ---
 
-## Easily keep gh-pages in sync with master
+## Easily keep gh pages in sync with master
 
 ```
 $ git add .
@@ -17,4 +17,4 @@ $ git push origin gh-pages // commit the changes
 $ git checkout master // return to the master branch
 ```
 
- This guide was written by [Lea Verou](https://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/)
+#### This guide was written by [Lea Verou](https://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/)
