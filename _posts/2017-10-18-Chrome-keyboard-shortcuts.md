@@ -27,10 +27,10 @@ for *Windows* &amp; *Linux*
 | Close the current window | Alt + F4 |
 | Quit Google Chrome | Ctrl + Shift + q |
 | Open a new window in Incognito mode | Ctrl + Shift + n |
-*************
+
+<br>
 
 ## Google Chrome feature shortcuts
- 
  
 | Action | Shortcut |
 | :--- | --- |
@@ -51,11 +51,11 @@ for *Windows* &amp; *Linux*
 | Open the Chrome Help Center in a new tab | F1 |
 | Log in a different user or browse as a Guest | Ctrl + Shift + m |
 | Open a feedback form | Alt + Shift + i |
---------------------------------------------------
+
+<br>
 
 ## Address bar shortcuts
 #### Use the following shortcuts in the address bar:
-
 
 | Action | Shortcut |
 | :--- | --- |
@@ -67,6 +67,7 @@ for *Windows* &amp; *Linux*
 | Search from anywhere on the page | Ctrl + k or Ctrl + e |
 | Remove predictions from your address bar | Down arrow to highlight + Shift + Delete |
 
+<br>
 
 ## Webpage shortcuts:
 
@@ -101,6 +102,7 @@ for *Windows* &amp; *Linux*
 | Deny within a notification | Alt + Shift + d |
 | Open the Home page in the current tab | Alt + Home |
 
+<br>
 
 ## Mouse shortcuts
 ### The following shortcuts require you to use your mouse:
