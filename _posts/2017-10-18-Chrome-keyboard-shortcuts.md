@@ -29,7 +29,9 @@ for *Windows* &amp; *Linux*
 | Open a new window in Incognito mode | Ctrl + Shift + n |
 
   <br>
+  
 ## Google Chrome feature shortcuts
+
   <br>
 
 | Action | Shortcut |
