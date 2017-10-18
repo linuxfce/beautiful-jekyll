@@ -16,7 +16,7 @@ for *Windows* &amp; *Linux*
 | Jump to the next open tab | Ctrl + Tab or Ctrl + PgDn |
 | Jump to the previous open tab | Ctrl + Shift + Tab or Ctrl + PgUp |
 | Jump to a specific tab | Ctrl + 1 through Ctrl + 8 |
-| Jump to the last tab | | Ctrl + 9 |
+| Jump to the last tab | Ctrl + 9 |
 | Open your home page in the current tab | Alt + Home |
 | Open the previous page from your browsing history in the current tab | Alt + Left arrow |
 |Open the next page from your browsing history in the current tab | Alt + Right arrow |
