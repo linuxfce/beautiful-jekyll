@@ -27,13 +27,9 @@ for *Windows* &amp; *Linux*
 | Close the current window | Alt + F4 |
 | Quit Google Chrome | Ctrl + Shift + q |
 | Open a new window in Incognito mode | Ctrl + Shift + n |
-
-  <br>
-  
+---------
 ## Google Chrome feature shortcuts
-
-  <br>
-
+---------
 | Action | Shortcut |
 | :--- | --- |
 | Open the Chrome menu | Alt + f or Alt + e or F10 |
@@ -53,10 +49,10 @@ for *Windows* &amp; *Linux*
 | Open the Chrome Help Center in a new tab | F1 |
 | Log in a different user or browse as a Guest | Ctrl + Shift + m |
 | Open a feedback form | Alt + Shift + i |
-  
+-------------------------
 ## Address bar shortcuts
 #### Use the following shortcuts in the address bar:
-  
+-------------------------------
 | Action | Shortcut |
 | :--- | --- |
 | Search with your default search engine | Type a search term + Enter |
@@ -66,9 +62,9 @@ for *Windows* &amp; *Linux*
 | Jump to the address bar | Ctrl + l or Alt + d or F6 |
 | Search from anywhere on the page | Ctrl + k or Ctrl + e |
 | Remove predictions from your address bar | Down arrow to highlight + Shift + Delete |
-
+--------------------------
 ## Webpage shortcuts:
-
+---------------------------
 | Action | Shortcut |
 | :--- | --- |
 | Open options to print the current page | Ctrl + p |
@@ -98,10 +94,10 @@ for *Windows* &amp; *Linux*
 | Allow within a notification | Alt + Shift + a |
 | Deny within a notification | Alt + Shift + d |
 | Open the Home page in the current tab | Alt + Home |
-
+--------------------------
 ## Mouse shortcuts
 ### The following shortcuts require you to use your mouse:
-
+-------------------------------------------------------------
 | Action | Shortcut |
 | :--- | --- |
 | Open a link in a current tab (mouse only) | Drag a link to a tab |
