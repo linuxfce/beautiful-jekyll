@@ -15,4 +15,4 @@ I call myself a Web Developer which is not really true, I'm still learning HTML,
  
  I also work w/ PShop CS6 (W7 on [VirtualBox]( https://www.virtualbox.org/)), [Darktable](https://www.darktable.org/), [UFRaw](http://ufraw.sourceforge.net/), [Gimp](https://www.gimp.org/tutorials/), [Atom Editor](https://atom.io/) on [Linux 18.2 Sonya xfce](https://linuxmint.com/rel_sonya_xfce.php), which is my favourite Linux system, and many others...
    Thanks for (hopefully not) wasting your time reading this page, any suggestions just make a pull request on my [GitHub Acc](https://github.com/linuxfce).
-#### Meiras
+#### Luís Miguel T.
