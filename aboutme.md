@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I'm a Web Developer from Portugal based in London
+subtitle: I'm a Web Developer (begginner) based in London &amp; I also repair computers free of charge to my neighbours & friends.
 bigimg: "/img/MigPCrepairs.jpeg"
 ---
 
