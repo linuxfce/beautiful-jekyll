@@ -7,7 +7,7 @@ bigimg: "/img/MigPCrepairs.jpeg"
 
  I'm currently learning HTML, CSS, JScript, I work with Bootstrap, JQuery, currently learning how to host my blog with static pages [Jekill](http://jekyllrb.com/docs/quickstart/) on [GitHub](https://linuxfce.github.io/), so I can do simple websites or blogs  that my friends and neighbours can easily maintain a website without CMS, databases, coding skills or even know how to host their own website.
 
-I call myself a Web Developer which is not really true, I'm still learning HTML, CSS \(\+ SASS\), JScritp, JQuery, Bootstrap, Node.Js, Markdown syntax, Jekill, GitHub &amp; Git, till today I managed to host &amp; maintain my own website [miguelpcrepairs](http://miguelpcrepairs.site90.net/) &amp; this [Blog](https://linuxfce.github.io/) . I also maintain a few Websites, free of charge, for friends &amp; neighbours and one for an Art group in Lambeth, London.
+I call myself a Web Developer which is not really true, I'm still learning HTML, CSS \(\+ SASS\), JScritp, JQuery, Bootstrap, Node.Js, Markdown syntax, Jekill, GitHub &amp; Git, till today I managed to host &amp; maintain my own website [miguelpcrepairs](http://miguelpcrepairs.site90.net/) &amp; this [Blog](https://linuxfce.github.io/) . I also maintain a few Websites, free of charge, for friends &amp; neighbours and a Photo-Gallery website for an Art group in Lambeth, London.
 
  GitHub even offers their own version control like Git which is also included and supported.
 
