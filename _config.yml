@@ -14,10 +14,10 @@ baseurl: "/joly-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "Meiras site"
+title: "Miguel's Site"
 
 # Short description of your site
-description: A easy-to-use Jekill template
+description: Learning Code &amp; PC Repairs
 
 # --- Navigation bar options --- #
 
@@ -25,7 +25,7 @@ description: A easy-to-use Jekill template
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Beautiful Jekyll: "https://linuxfce.github.io/joly-jekyll"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://github.com/linuxfce"
@@ -57,10 +57,10 @@ page-col: "#D1D1D1"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "meiras@gmail.com"
+  email: "mig.pc.repairs@gmail.com"
   facebook: yourname  # eg. daattali
   github: linuxfce    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: luis_linuxfce   # eg. luis_linuxfce
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -80,11 +80,11 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -105,7 +105,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://linuxfce.github.io/joly-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://linuxfce.github.io/joly-jekyll"  # eg. "linuxfce.github.io/joly-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
