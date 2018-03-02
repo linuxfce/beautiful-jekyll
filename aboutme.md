@@ -48,7 +48,7 @@ I also do retouching & repair old photos keeping the poetic atmosphere when the 
 </p>
 </div>
 
-I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExtensions API](http://tinyurl.com/oquzmyx), in order to migrate some of my old addons, build with the old sdk, to the new **WebExtensions API**, a cross-browser system for developing extensions. To a large extent the system is compatible with the extension API supported by Google Chrome and Opera and the W3C Draft Community Group. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just a few changes. The API is also fully compatible with multiprocess Firefox. I'm having all kinds of issues with this, but, on the other hand that was the way I start up with Node.Js with Express &amp; to learn how to build the software for a local Library maintain by volunteers, I'm experimenting to this also with the **Django framework** in my localhost on my Desktop PC.
+I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExtensions API](http://tinyurl.com/oquzmyx), in order to migrate some of my old addons, build with the old sdk, to the new **WebExtensions API**, a cross-browser system for developing extensions. To a large extent the system is compatible with the extension API supported by Google Chrome and Opera and the W3C Draft Community Group. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just a few changes. The API is also fully compatible with multiprocess Firefox. I'm having all kinds of issues with this, but, on the other hand that was the way I start up with Node.Js with Express &amp; to learn how to build the software for a local Library maintain by volunteers, I'm experimenting to this also with the **Django framework** in localhost on my Desktop PC.
 
 <div>
 
@@ -56,10 +56,11 @@ I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExten
 
 <p>Coding, website design, Photoshop, all kinds of repairs, Chess, reading, play Guitar, Nanny, looking at  clouds, smell lavender after raining and poetry …
 </p>
+<!--
 <p>Thanks for (hopefully not) wasting your time reading this page, any suggestions just make a pull request on my <a href="https://github.com/linuxfce">GitHub Acc</a> or to <a href="mailto:meiras.contact@gmail.com">Miguel email</a>.
 </p>
-<br>
 <p>Luís Miguel T.</p>
+-->
 <br>
 
 </div>
@@ -130,9 +131,6 @@ I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExten
 </div>
 
 </div>
-
-
- I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExtensions API](http://tinyurl.com/oquzmyx), in order to migrate some of my old addons, build with the old sdk, to the new **WebExtensions API**, a cross-browser system for developing extensions. To a large extent the system is compatible with the extension API supported by Google Chrome and Opera and the W3C Draft Community Group. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just a few changes. The API is also fully compatible with multiprocess Firefox. I'm having all kinds of issues with this, but, on the other hand that was the way I start up with Node.Js with Express &amp; to learn how to build the software for a local Library maintain by volunteers, I'm experimenting to this also with the **Django framework** in my localhost on my Desktop PC.
 
    Thanks for (hopefully not) wasting your time reading this page, any suggestions just make a pull request on my [GitHub Acc](https://github.com/linuxfce) .
 
