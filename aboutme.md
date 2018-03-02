@@ -43,10 +43,6 @@ Dance Company of Lisbon<br> (Costa do Castelo, Lisbon, Portugal)</h3>
 <br>
 <b>Basic Knowledge of HTML,CSS & JavaScript</b>. I know how to design & maintain basic websites from scratch (static & dynamic pages) on web hosting or GitHub pages (some skills with Git). I also use Bootstrap, Atom text editor, JQuery (beginner). I’m doing a free code course online at FreeCodeCamp.</p>
 
-I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExtensions API](http://tinyurl.com/oquzmyx), in order to migrate some of my old addons, build with the old sdk, to the new **WebExtensions API**, a cross-browser system for developing extensions. To a large extent the system is compatible with the extension API supported by Google Chrome and Opera and the W3C Draft Community Group. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just a few changes. The API is also fully compatible with multiprocess Firefox. I'm having all kinds of issues with this, but, on the other hand that was the way I start up with Node.Js with Express &amp; to learn how to build the software for a local Library maintain by volunteers, I'm experimenting to this also with the **Django framework** in my localhost on my Desktop PC.
-
-<br>
-
 <p> Good skills with Photoshop, Darktable ,Gimp, Virtualbox, etc. Hardware & Software installation, troubleshooting, updates, malware, virus, etc.<br>
 I also do retouching & repair old photos keeping the poetic atmosphere when the shot was taken ...
 </p>
@@ -62,6 +58,9 @@ I also do retouching & repair old photos keeping the poetic atmosphere when the 
 <br>
 
 </div>
+
+I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExtensions API](http://tinyurl.com/oquzmyx), in order to migrate some of my old addons, build with the old sdk, to the new **WebExtensions API**, a cross-browser system for developing extensions. To a large extent the system is compatible with the extension API supported by Google Chrome and Opera and the W3C Draft Community Group. Extensions written for these browsers will in most cases run in Firefox or Microsoft Edge with just a few changes. The API is also fully compatible with multiprocess Firefox. I'm having all kinds of issues with this, but, on the other hand that was the way I start up with Node.Js with Express &amp; to learn how to build the software for a local Library maintain by volunteers, I'm experimenting to this also with the **Django framework** in my localhost on my Desktop PC.
+
 
 <div class='spacer'></div>
 <a name= "portfolio"></a>
