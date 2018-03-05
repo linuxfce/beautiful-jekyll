@@ -65,15 +65,15 @@ author:
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: luis-miguel-t-962b23157  # eg. daattali
   xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
+#  stackoverflow: yourlink  # eg. "3943160/daattali"
+#  snapchat: yourname  # eg. daattali
+#  instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+#  spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+#  steam: yourname     # eg. daattali
+#  twitch: yourname    # eg. daattali
+#  yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:

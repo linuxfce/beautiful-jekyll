@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I'm a Web Developer (begginner) based in London &amp; I also repair computers free of charge to my neighbours & friends.
+subtitle: I'm a Front-End Developer (begginner) based in London &amp; I also repair computers free of charge to my neighbours & friends.
 bigimg: "/img/MigPCrepairs.jpeg"
 ---
 
@@ -28,7 +28,7 @@ Polite and friendly</p>
 <h3 class='text-center'>Experience<br>
 Computer Repairs at Home (2010 – 2018)</h3>
 
-<p><b>PC's, Laptops & Android phones repairs.</b> Learning how to code, <i>HTML, CSS (SASS), JScript, JQuery, Bootstrap, Node.Js,  Markdown syntax,  Jekill, GitHub & Git,</i> etc, I can create websites from scratch or do blogs that my friends & neighbors can easily maintain without any knowledge of C.M.S., Databases, coding or even know how to host their own website & free of Ads. <b>I also repair all Windows or Linux systems, Desktops, Laptops & Android systems (also based on Linux) free of charge to all my neighbors & friends.</b> I never had a complaint till today. I work w/ PhotoShop CS6,VirtualBox, Darktable, UFRaw, Gimp, Libre Office, Office 365, Atom Editor for coding with Linux 18.2 Sonya XFCE.
+<p><b>PC's, Laptops & Android phones repairs.</b> Learning how to code, <i>HTML, CSS (SASS), JScript, JQuery, Bootstrap, Node.JS,  Markdown syntax,  Jekill, GitHub & Git,</i> etc, I can create websites from scratch or do blogs that my friends & neighbors can easily maintain without any knowledge of C.M.S., Databases, coding or even know how to host their own website & free of Ads. <b>I also repair all Windows or Linux systems, Desktops, Laptops & Android systems (also based on Linux) free of charge to all my neighbors & friends.</b> I never had a complaint till today. I work w/ PhotoShop CS6,VirtualBox, Darktable, UFRaw, Gimp, Libre Office, Office 365, Atom Editor for coding with Linux 18.2 Sonya XFCE and Windows 7 Ultimate.
 </p>
 
 <h3 class='text-center'>Light Technician<br>
@@ -41,7 +41,7 @@ Dance Company of Lisbon<br> (Costa do Castelo, Lisbon, Portugal)</h3>
 
 <p>I repair PC, Laptop computers & Android Phones. Good with Windows & Linux systems, hardware or software with very good knowledge of using the Linux Terminal (Windows command line). I do small repairs on Android phones (updates, install or broken screens). I repair computers free of charge to all my neighbors too.
 <br>
-<b>Basic Knowledge of HTML,CSS & JavaScript</b>. I know how to design & maintain basic websites from scratch (static & dynamic pages) on web hosting or GitHub pages (some skills with Git). I also use Bootstrap, Atom text editor, JQuery (beginner). I’m doing a free code course online at FreeCodeCamp.</p>
+ I call myself Front-End Developer which is not really true, I still have a lot to learn, but, I have a pretty good <b>Basic Knowledge of HTML,CSS & JavaScript</b>. I know how to design & maintain basic websites from scratch (static & dynamic pages) on web hosting or GitHub pages (some skills with Git). I also use Bootstrap, Atom text editor, JQuery & Node.JS (beginner). I’m doing a free code course online at FreeCodeCamp.</p>
 
 <p> Good skills with Photoshop, Darktable ,Gimp, Virtualbox, etc. Hardware & Software installation, troubleshooting, updates, malware, virus, etc.<br>
 I also do retouching & repair old photos keeping the poetic atmosphere when the shot was taken ...
