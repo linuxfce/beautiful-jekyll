@@ -7,7 +7,7 @@ title: Sync gh pages with master
 
 ```
 $ git add .
-$ git status // to see what changes are going to be commited
+$ git status // to see what changes are going to be committed
 $ git commit -m 'Some descriptive commit message'
 $ git push origin master
 
