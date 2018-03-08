@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: I'm a Front-End Developer (begginner) based in London &amp; I also repair computers free of charge to my neighbours & friends.
-bigimg: "/img/MigPCrepairs.jpeg"
+img: "/img/MigPCrepairs.jpeg"
 ---
 
 <div class='spacer'></div>
