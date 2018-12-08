@@ -1,12 +1,11 @@
 ---
-
 layout: post
-title: Study: Google puts logged out users in a filter bubble
-subtitle: Credits to by Martin Brinkmann, ghacks.net on December 06, 2018
+title: YAML front matter block
+subtitle: What is the YAML front matter ?
+bigimg: /img/MigPCrepairs.jpeg
+
 comments: true
-
 ---
-
 
 ## Search engine [DuckDuckGo](https://duckduckgo.com/) published the findings of an experiment that it conducted earlier this year on the company's Spread Privacy website.
 
