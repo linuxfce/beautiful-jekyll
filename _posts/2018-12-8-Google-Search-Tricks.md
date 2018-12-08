@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Study - Google puts logged out users in a filter bubble
-subtitle:  Credits to by Martin Brinkmann, ghacks.net on December 06, 2018
+subtitle:  Credits to Martin Brinkmann, ghacks.net on December 06, 2018
 bigimg: /img/MigPCrepairs.jpeg
 comments: true
 ---
 
 ### Search engine [DuckDuckGo](https://duckduckgo.com/) published the findings of an experiment that it conducted earlier this year on the company's Spread Privacy website.
 
-The company wanted to to determine whether [Google Search](https://www.google.com/), the world's largest search engine, applied [filter bubbles](https://www.ghacks.net/2012/01/13/the-internet-bubble-and-how-to-escape-it/) to signed out users as well.
+The company wanted to to determine whether [Google Search](https://www.google.com/), the world's largest search engine, applied [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble) to signed out users as well.
 
 Filter bubble refers to displaying results to searchers based on information known about them. Information may include the location, device and software, previous searches, activity, or purchases.
 
