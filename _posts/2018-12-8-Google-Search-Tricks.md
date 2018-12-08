@@ -1,9 +1,8 @@
 ---
 layout: post
-title: YAML front matter block
-subtitle: What is the YAML front matter ?
+title: Study - Google puts logged out users in a filter bubble
+subtitle:  Credits to by Martin Brinkmann, ghacks.net on December 06, 2018
 bigimg: /img/MigPCrepairs.jpeg
-
 comments: true
 ---
 
