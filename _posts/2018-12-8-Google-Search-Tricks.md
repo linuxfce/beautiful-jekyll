@@ -6,7 +6,7 @@ bigimg: /img/MigPCrepairs.jpeg
 comments: true
 ---
 
-## Search engine [DuckDuckGo](https://duckduckgo.com/) published the findings of an experiment that it conducted earlier this year on the company's Spread Privacy website.
+### Search engine [DuckDuckGo](https://duckduckgo.com/) published the findings of an experiment that it conducted earlier this year on the company's Spread Privacy website.
 
 The company wanted to to determine whether [Google Search](https://www.google.com/), the world's largest search engine, applied [filter bubbles](https://www.ghacks.net/2012/01/13/the-internet-bubble-and-how-to-escape-it/) to signed out users as well.
 
