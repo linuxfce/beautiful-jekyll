@@ -28,7 +28,7 @@ Polite and friendly</p>
 <h3 class='text-center'>Experience<br>
 Computer Repairs at Home (2010 – 2018)</h3>
 
-<p><b>PC's, Laptops & Android phones repairs.</b> Learning how to code, <i>HTML, CSS (SASS), JScript, JQuery, Bootstrap, Node.JS,  Markdown syntax,  Jekill, GitHub & Git,</i> etc, I can create websites from scratch or do blogs that my friends & neighbors can easily maintain without any knowledge of C.M.S., Databases, coding or even know how to host their own website & free of Ads. <b>I also repair all Windows or Linux systems, Desktops, Laptops & Android systems (also based on Linux) free of charge to all my neighbors & friends.</b> I never had a complaint till today. I work w/ PhotoShop CS6,VirtualBox, Darktable, UFRaw, Gimp, Libre Office, Office 365, Atom Editor for coding with Linux 18.2 Sonya XFCE and Windows 7 Ultimate.
+<p><b>PC's, Laptops & Android phones repairs.</b> Learning how to code, <i>HTML, CSS (SASS), JScript, JQuery, Bootstrap, Node.JS,  Markdown syntax,  Jekill, GitHub & Git,</i> etc, I can create websites from scratch or do blogs that my friends & neighbors can easily maintain without any knowledge of C.M.S., Databases, coding or even know how to host their own website & free of Ads. <b>I also repair all Windows or Linux systems, Desktops, Laptops & Android systems (also based on Linux) free of charge to all my neighbors & friends.</b> I never had a complaint till today. I work w/ PhotoShop CS6,VirtualBox, Darktable, UFRaw, Gimp, Libre Office, Office 365, Atom Editor for coding with Linux 18.3 Sylvia XFCE and Windows 7 Ultimate.
 </p>
 
 <h3 class='text-center'>Light Technician<br>
