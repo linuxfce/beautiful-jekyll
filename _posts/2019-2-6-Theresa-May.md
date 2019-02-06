@@ -23,8 +23,6 @@ Ritchie, the founder of Residential Land, was at the centre of criticism after i
 
 The prime minister was among those who called for such events to be halted, saying: “I thought that that sort of attitude of the objectification of women was something that was in the past, that we had managed to overcome.”
 
-https://www.theguardian.com/info/2015/dec/08/daily-email-uk
-
 The charitable activity of the Presidents Club was halted after the revelations. In July, trustees such as Ritchie were found to be acting in good faith and for the best interests of the charity, but were also heavily criticised by the charity commission for failing to protect the reputation of the charity or the welfare of female workers.
 
 Trustees rebutted the allegations of harassment and responded by saying they had not received any complaints from female staff. Despite a callout for evidence, no individual complainants came forward to assist the commission with its investigation.
