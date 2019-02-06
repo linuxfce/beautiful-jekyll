@@ -2,6 +2,7 @@
 layout: post
 title: Theresa May dined with Presidents Club co-chair
 tags: [Jekill-Blog, random]
+bigimg: "/img/Thames3.jpg"
 comments: true
 ---
 
