@@ -10,8 +10,6 @@ comments: true
 
 #### Bruce Ritchie met PM after she criticised charity’s men-only event where female staff alleged sexual harassment.
 
-Bruce Ritchie met PM after she criticised charity’s men-only event where female staff alleged sexual harassment
-
 Theresa May had dinner with the co-chair of the controversial Presidents Club only weeks after she had criticised the charity’s event at which female staff were allegedly propositioned for sex, new records show.
 
 Bruce Ritchie donated at least £50,000 to the Conservatives’ Leader’s Group (CLG), which secures members exclusive access to May at dinners, lunches and meetings after prime minister’s question time.
