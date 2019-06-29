@@ -6,7 +6,7 @@ subtitle: Learn keyboard shortcuts and become a pro at using Chrome
 
 ## Tab and window shortcuts
 
-for *Windows &amp; Linux*
+for *Windows and Linux*
 
 | Action | Shortcut |
 | :--- | --- |
