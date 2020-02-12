@@ -44,7 +44,7 @@ Dance Company of Lisbon<br> (Costa do Castelo, Lisbon, Portugal)</h3>
  I call myself Front-End Developer which is not really true, I still have a lot to learn, but, I have a pretty good <b>Basic Knowledge of HTML,CSS & JavaScript</b>. I know how to design & maintain basic websites from scratch (static & dynamic pages) on web hosting or GitHub pages (some skills with Git). I also use Bootstrap, Atom text editor, JQuery & Node.JS (beginner). I’m doing a free code course online at FreeCodeCamp.</p>
 
 <p> Good skills with Photoshop, Darktable ,Gimp, Virtualbox, etc. Hardware & Software installation, troubleshooting, updates, malware, virus, etc.<br>
-I also do retouching & repair old photos keeping the poetic atmosphere when the shot was taken ...
+I also do some retouching & repairs on old photos keeping the poetic atmosphere when the shot was taken ...
 </p>
 </div>
 
