@@ -105,6 +105,8 @@ I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExten
 </div>
 </div>
 
+<!--
+
  <div class='col-md-6'>
    <div class="card" style="width: auto;">
 <p data-height="300" data-theme-id="30330" data-slug-hash="MELdXB" data-default-tab="result" data-user="migLinux" data-embed-version="2" data-pen-title="Miguel fork Weather App" class="codepen">See the Pen <a href="https://codepen.io/migLinux/pen/MELdXB/">Miguel fork Weather App</a> by Mig T (<a href="https://codepen.io/migLinux">@migLinux</a>) on <a href="https://codepen.io">CodePen</a>.</p>
@@ -117,7 +119,8 @@ I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExten
 
 </div>
 
-<!--
+-->
+
  <div class='col-md-6'>
    <div class="card" style="width: 300px;">
 <img class="card-img-top" src="https://docs.google.com/uc?id=0B8LPYClxJKSNNmhPc2FVMTQta0E" alt="Card image cap">
@@ -127,7 +130,7 @@ I'm also trying to work with [Firefox](http://tinyurl.com/o4zpxgb) new [WebExten
 </div>
 </div>
 </div>
--->
+
 </div>
 
 </div>
